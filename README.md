@@ -5,4 +5,4 @@
 
 [File#getCanonicalPath()とFile#getAbsolutePath()とFile#getPathとの違い](https://qiita.com/arai-wa/items/fd0b4d752a31a268604b)
 
-[javax.swing.JFileChooser](https://docs.oracle.com/javase/jp/8/docs/api/javax/swing/JFileChooser.html)
+[javax.swing.JFileChooser(ドキュメント)](https://docs.oracle.com/javase/jp/8/docs/api/javax/swing/JFileChooser.html)
